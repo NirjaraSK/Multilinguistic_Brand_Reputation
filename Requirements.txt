@@ -19,5 +19,3 @@ umap-learn
 ipywidgets
 streamlit
 pyngrok
-plotly
-
